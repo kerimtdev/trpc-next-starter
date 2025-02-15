@@ -10,9 +10,9 @@ A modern full-stack starter template built with Next.js, tRPC, DrizzleORM, and R
 - 🔄 [TanStack Query](https://tanstack.com/query/latest) for data fetching
 - ⚡ [Turbopack](https://turbo.build/pack) for faster development
 - 📁 Organized project structure:
-  - `/app` - Next.js app router pages and API routes
-  - `/package` - Shared components, hooks, and utilities
-  - `/server` - Backend logic with tRPC routers and database schema
+  - `/app` - Next.js app router pages
+  - `/api` - Backend logic with tRPC routers and database schema
+  - `/lib` - Shared components, hooks, and utilities
 
 ## Getting Started
 
